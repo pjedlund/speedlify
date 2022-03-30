@@ -1,6 +1,6 @@
 module.exports = {
 	name: "johanedlund.se", // optional, falls back to object key
-	description: "Personal website",
+	description: "johanedlund.se",
 	// skip if localhost
 	options: {
 		frequency: 60 * 23, // 23 hours
