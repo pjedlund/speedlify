@@ -12,7 +12,7 @@ module.exports = {
 	},
 	urls: [
 		"https://www.johanedlund.se/",
-		"https://www.johanedlund.se/cv/"
+		"https://www.johanedlund.se/cv/",
 		"https://www.johanedlund.se/cv/en.html"
 	]
 };
