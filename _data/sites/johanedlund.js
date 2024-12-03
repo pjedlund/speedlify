@@ -2,8 +2,8 @@ module.exports = {
   name: 'www.johanedlund.se',
   description: 'www.johanedlund.se',
   options: {
-    frequency: 60 * 23, // 24 hour
-    freshChrome: 'site',
+    runs: 1,
+    frequency: 1, // (in minutes)
   },
   urls: ['https://www.johanedlund.se/'],
 };
