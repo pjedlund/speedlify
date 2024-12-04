@@ -7,7 +7,7 @@ package = "./plugins/keep-data-cache"
 
 [[headers]]
   for = "/api/*"
-    [headers.val  ues]
+    [headers.values]
     Access-Control-Allow-Origin = "*"
 
 [[redirects]]
