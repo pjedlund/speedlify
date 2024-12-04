@@ -41,6 +41,7 @@
     "short-hash": "^1.0.0"
   },
   "dependencies": {
+    "@netlify/functions": "^2.8.2",
     "chartist": "^0.11.4",
     "speedlify-score": "^4.0.1"
   }
