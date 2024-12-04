@@ -43,6 +43,7 @@
   "dependencies": {
     "@netlify/functions": "^2.8.2",
     "chartist": "^0.11.4",
+    "node-fetch": "^3.3.2",
     "speedlify-score": "^4.0.1"
   }
 }

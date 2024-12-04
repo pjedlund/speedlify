@@ -2,6 +2,9 @@
   publish = "_site"
   command = "npm run build-production"
 
+[functions]
+  node_bundler = "esbuild"
+
 [[plugins]]
 package = "./plugins/keep-data-cache"
 
