@@ -1,6 +1,6 @@
 module.exports = {
   name: 'emergency.johanedlund.se',
-  description: 'emergency.johanedlund.se',
+  description: 'A boilerplate emergency website.',
   options: {
     runs: 1,
     frequency: 60, // (in minutes)
