@@ -3,7 +3,7 @@ module.exports = {
   description: 'cv.johanedlund.se',
   options: {
     runs: 1,
-    frequency: 1, // (in minutes)
+    frequency: 60, // (in minutes)
   },
   urls: ['https://cv.johanedlund.se/'],
 };
