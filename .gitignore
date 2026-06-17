@@ -10,3 +10,4 @@ package-lock.json
 .nova
 .DS_Store
 _backup
+.omc
