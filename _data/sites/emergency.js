@@ -3,7 +3,7 @@ module.exports = {
   description: 'A boilerplate emergency website.',
   options: {
     runs: 1,
-    frequency: 60, // (in minutes)
+    frequency: 10080, // 7 days, in minutes (weekly check)
   },
   urls: [
     'https://emergency.johanedlund.se',

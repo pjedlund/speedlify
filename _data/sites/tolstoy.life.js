@@ -3,7 +3,7 @@ module.exports = {
   description: 'tolstoy.life startpage',
   options: {
     runs: 1,
-    frequency: 60, // (in minutes)
+    frequency: 10080, // 7 days, in minutes (weekly check)
   },
   urls: ['https://www.tolstoy.life/'],
 };
